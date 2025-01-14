@@ -1,0 +1,7 @@
+phidata
+streamlit
+youtube_transcript_api
+pytube
+groq
+phi
+langchain_groq
